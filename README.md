@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kian</h1>
-<h3 align="center">"Aspiring Software Engineering Student | Tech Enthusiast | Valuing Ideas as Gems Beyond the Code"</h3>
+<h3 align="center">" Software Engineering Student | Tech Enthusiast "</h3>
 
 - 🌱 I’m currently learning **Web Development and related technologies**
 
